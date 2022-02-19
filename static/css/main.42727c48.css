@@ -9,7 +9,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, Courier New, monospace;
 }
 .App {
-  background-image: url(/static/media/photo-unsplash.bdb055b99469b777421b.jpg);
+  background-image: url(../media/photo-unsplash.bdb055b99469b777421b.jpg);
   height: 100%;
   text-align: center;
 }
